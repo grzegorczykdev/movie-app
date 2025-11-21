@@ -53,4 +53,7 @@ A modern **movie discovery app** built with **React**, **Tailwind CSS**, and **A
 
 ---
 
-Made with ❤️ by [GrzegorczykDev](https://github.com/grzegorczykdev)
+## 📬 Contact
+
+- GitHub: [GrzegorczykDev](https://github.com/grzegorczykdev)
+- LinkedIn: [Sylwia Grzegorczyk](https://www.linkedin.com/in/grzegorczyksylwia/)
